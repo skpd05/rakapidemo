@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: userapidemoapp
+#  data:
+#    mongodb:
+#      authentication-database: admin
+#      database: user_db
+#      username: root
+#      password:
+#        - root
+#      port: 27017
+#      host: localhost
+server:
+  port: 8080
